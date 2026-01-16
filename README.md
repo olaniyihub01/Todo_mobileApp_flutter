@@ -8,7 +8,7 @@ A new Flutter project.
 ![Things_ToDo_Screenshot](assets/screenshots/Screenshot_1.png)
 
 # 2. Input ToDo Page
-![Things_ToDo_Screenshot](assets/screenshots/Screenshot_2.png)
+![inputBox_ToDo_Screenshot](assets/screenshots/Screenshot_2.png)
 
 
 ## Author- ADEBAYO VICTOR OLANIYI
